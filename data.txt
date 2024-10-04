@@ -1,1 +1,1 @@
-query_id=xxx
+query_id=AAFIwGlDAAAAAEjAaUNceunc&user=%7B%22id%22%3A1131003976%2C%22first_name%22%3A%22%E2%9A%94Kushw%C4%81h%C4%81%22%2C%22last_name%22%3A%22Jee%E2%9A%94%22%2C%22username%22%3A%22kushwaha_jee%22%2C%22language_code%22%3A%22en%22%2C%22allows_write_to_pm%22%3Atrue%7D&auth_date=1727527345&hash=5df9f0772b960088a0fea4bb8bdfbbf77c3306654dd2cbea80de91bce7611a1c
